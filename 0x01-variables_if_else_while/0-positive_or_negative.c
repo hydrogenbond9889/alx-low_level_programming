@@ -3,8 +3,7 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
-int main(void)
-/*return null value 0 */
+int main(void) /* Null value returnd zero */
 {
 	int n;
 
