@@ -4,6 +4,7 @@
 
 /* betty style doc for function main goes there */
 int main(void)
+/*return null value 0 */
 {
 	int n;
 
