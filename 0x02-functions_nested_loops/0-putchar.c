@@ -5,7 +5,10 @@
  *return: 0
  */
 int main(void)
-{
+	/*
+	 * main description
+	       */
+{/*MAIN DESCRIPTION*/
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
