@@ -1,5 +1,3 @@
-7-print_last_digit.c CODE
-
 #include "main.h"
 /**
  * print_last_digit - prints the last digit of a number
