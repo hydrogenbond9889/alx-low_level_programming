@@ -1,1 +1,0 @@
-c functions and pointers
